@@ -1,0 +1,17 @@
+{
+    "dota": [
+      {
+        "id": 1,
+        "hero": "hello",
+        "abilites": "tes",
+        "bio": "halo lagi"
+      },
+      {
+        "id": 2,
+        "hero": "hello2",
+        "abilites": "tes2",
+        "bio": "halo lagi2"
+      }
+
+    ]
+  }
