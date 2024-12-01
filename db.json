@@ -13,7 +13,7 @@
         "ability_cd2" : "15,12,9,6",
         "manacosts_ability2" : "60",
         "bio": "The monks of Turstarkuri watched the rugged valleys below their mountain monastery as wave after wave of invaders swept through the lower kingdoms. Ascetic and pragmatic, in their remote monastic eyrie they remained aloof from mundane strife, wrapped in meditation that knew no gods or elements of magic....",
-        "Gambarhero" : "/asset/Hero/antimage.png",
+        "Gambarhero" : "/media/Hero/antimage.png",
         "Gambarability1": "assets/Hero/antimage_mana_void.png",
         "Gambarability2": "assets/Hero/antimage_blink.png"
       },
