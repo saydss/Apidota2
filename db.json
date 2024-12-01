@@ -47,7 +47,7 @@
         "ability_cd2" : "150/130/110",
         "manacosts_ability2" : "145/205/265",
         "bio": "Like a golem or gargoyle, Earthshaker was one with the earth but now walks freely upon it. Unlike those other entities, he created himself through an act of will, and serves no other master. In restless slumbers, encased in a deep seam of stone, he became aware of the life drifting freely above him. He grew curious.. ",
-        "Gambarhero" : "assets/Hero/earthshaker.png",
+        "Gambarhero" : "media/Hero/earthshaker.png",
         "Gambarability1": "assets/Hero/earthshaker_echoslam.png",
         "Gambarability2": "assets/Hero/earthshaker_fissure.png"
       },
@@ -64,7 +64,7 @@
         "ability_cd2" : "160/150/140",
         "manacosts_ability2" : "150/225/300",
         "bio": "Darkterror the Faceless Void is a visitor from Claszureme, a realm outside of time. It remains a mystery why this being from another dimension believes the struggle for the Nemesis Stones is worth entering our physical plane, but apparently an upset in the balance of power in this world has repercussions in adjacent dimensions.",
-        "Gambarhero" : "assets/Hero/faceless_void.png",
+        "Gambarhero" : "media/Hero/faceless_void.png",
         "Gambarability1": "assets/Hero/faceless_void_time_walk.png",
         "Gambarability2": "assets/Hero/faceless_void_chronosphere.png"
       },
@@ -81,7 +81,7 @@
         "ability_cd2" : "140",
         "manacosts_ability2" : "200/275/350",
         "bio": "No one has ever seen the face hidden beneath the mask of Yurnero the Juggernaut. It is only speculation that he even has one. For defying a corrupt lord, Yurnero was exiled from the ancient Isle of Masks--a punishment that saved his life.",
-        "Gambarhero" : "assets/Hero/juggernaut.png",
+        "Gambarhero" : "media/Hero/juggernaut.png",
         "Gambarability1": "assets/Hero/juggernaut_blade_fury.png",
         "Gambarability2": "assets/Hero/juggernaut_omni_slash.png"
       },
@@ -98,7 +98,7 @@
         "ability_cd2" : "155",
         "manacosts_ability2" : "100",
         "bio": "Terrorblade is the demon marauder--an outlaw hellion whom even other demons fear. A cosmic iconoclast, he stole from the Demon Lords, ignored the codified rites that should have bound his behavior, and broke every law of the seven Infernal Regions.",
-        "Gambarhero" : "assets/Hero/terrorblade.png",
+        "Gambarhero" : "media/Hero/terrorblade.png",
         "Gambarability1": "assets/Hero/terrorblade_conjure_image.png",
         "Gambarability2": "assets/Hero/terrorblade_metamorphosis.png"
       }
