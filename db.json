@@ -13,7 +13,7 @@
         "ability_cd2" : "15,12,9,6",
         "manacosts_ability2" : "60",
         "bio": "The monks of Turstarkuri watched the rugged valleys below their mountain monastery as wave after wave of invaders swept through the lower kingdoms. Ascetic and pragmatic, in their remote monastic eyrie they remained aloof from mundane strife, wrapped in meditation that knew no gods or elements of magic....",
-        "Gambarhero" : "assets/Hero/antimage.png",
+        "Gambarhero" : "media/Hero/antimage.png",
         "Gambarability1": "assets/Hero/antimage_mana_void.png",
         "Gambarability2": "assets/Hero/antimage_blink.png"
       },
@@ -30,7 +30,7 @@
         "ability_cd2" : "0/0/0/0",
         "manacosts_ability2=" : "10/15/20/25",
         "bio": "At the base of the Bleeding Hills stretches a thousand-league wood, a place called The Hoven, where black pools gather the tarry blood of the uplands, and the king-mage Sutherex sits in benevolent rule...",
-        "Gambarhero" : "assets/Hero/clinkz.png",
+        "Gambarhero" : "media/Hero/clinkz.png",
         "Gambarability1": "assets/Hero/clinkz_burning_barrage.png",
         "Gambarability2": "assets/Hero/clinkz_searing_arrows.png"
       },
